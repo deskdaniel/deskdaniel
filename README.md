@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel Deskiewicz 👋
 
 I've studied **civil engineering** and have been working in that field for a few years.
-Recently, I decided to transition into **programming**
+Recently, I decided to transition into **programming**.
 
 ## 🧠 Currently learning
 - **Python**
